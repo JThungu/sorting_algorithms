@@ -22,7 +22,7 @@ void swap_int(int *a, int *b)
  * @right: The ending index of the subset to order.
  * Return: The final partition index.
  * Description: Prints the array after each swap of two elements.
- * 
+ *
  */
 int hoare_p(int *array, size_t size, int left, int right)
 {
