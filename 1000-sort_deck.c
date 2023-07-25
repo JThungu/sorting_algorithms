@@ -1,6 +1,6 @@
 #include "deck.h"
 /**
- * _strcmp - Compares two strings.
+ * int _strcmp - Compares two strings.
  * @s1: first string to be compared.
  * @s2: second string to be compared.
  */
